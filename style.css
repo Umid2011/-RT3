@@ -1,0 +1,38 @@
+p{
+    margin: -20px 550px;
+    width: 350px;
+}
+h2{
+    margin: 0px 150px;
+}
+span{
+    color: orange;
+}
+.gg{
+    background-color: rgb(146, 146, 146);
+    height: 50px;
+    
+}
+.gg1{
+    background: url(https://masterpiecer-images.s3.yandex.net/5fc2074fdfd7b76:upscaled);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 200vh;
+    height: 600px;
+    margin: -25px 0px;
+}
+h1{
+    color: white;
+    padding:250px 400px;
+}
+h3{
+    color: white;
+    margin: -270px 450px;
+}
+button{
+    border-style:  none;
+    background-color: orange;
+    padding: 15px;
+    margin: 280px 550px;
+    color: white;
+}
